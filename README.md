@@ -1,0 +1,2 @@
+# TERMUX-files
+Android sandbox
